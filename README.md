@@ -40,3 +40,27 @@ Below table shows the recommended food items and available locations and amount 
 
 ---
 
+### Algebra 
+
+> Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols. In elementary algebra, those    symbols (today written as Latin and Greek letters) represent quantities without fixed values, known as variables. Just as sentences describe relationships between specific words, in algebra, equations describe relationships between variables
+(<https://www.livescience.com/50258-algebra.html>)
+
+```
+
+pair<int, int> fib (int n) {
+    if (n == 0)
+        return {0, 1};
+
+    auto p = fib(n >> 1);
+    int c = p.first * (2 * p.second - p.first);
+    int d = p.first * p.first + p.second * p.second;
+    if (n & 1)
+        return {d, c + d};
+    else
+        return {c, d};
+}
+
+```
+Link : (<https://cp-algorithms.com/algebra/fibonacci-numbers.html>)
+
+
