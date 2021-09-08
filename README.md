@@ -33,3 +33,10 @@ Below table shows the recommended food items and available locations and amount 
 
 ---
 
+### My favouite Quotes
+
+> Start before you’re ready - *Steven Pressfiled*
+> To produce a mighty book, you must choose a mighty theme - *Herman Marville*
+
+---
+
