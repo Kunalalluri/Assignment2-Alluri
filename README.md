@@ -12,7 +12,24 @@
     1. Catch nizamabad bus at rgia
     2. Welcome to Nzb
 * mobile phone
-* watch
+* watches
 * laptop
 
 [Aboutmelink](AboutMe.md)
+
+
+---
+
+### Recommended food
+
+Below table shows the recommended food items and available locations and amount to be paid for purchase
+
+|    food items    |   locations     |    amounts    |
+|   -----------    |   ----------    |  ----------   |
+|    Natukodi      |    Nzb,india    |     500       |
+|    desi chic     |     argul       |     1000      |
+|   thalkaya       |    ankapur      |     2000      |
+|    mutton        |   manchiryal    |     400       |
+
+---
+
